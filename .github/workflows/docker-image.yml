@@ -31,4 +31,4 @@ jobs:
         
     - name: Push Docker Image
       run: |
-        docker push alonsocesar/docker-gql:0.0.2 .
+        docker push alonsocesar/docker-gql:0.0.2 
